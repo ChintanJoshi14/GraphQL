@@ -1,0 +1,11 @@
+.card {
+  gap: 200px;
+  display: flex;
+  flex-direction: row;
+  background-color: whitesmoke;
+  width: 200px;
+  height: 200px;
+}
+
+/* .container {
+} */
